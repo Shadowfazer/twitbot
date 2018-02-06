@@ -1,1 +1,1 @@
-worker: python twitbot.py --daemon
+worker: python twitbot.py --daemon --log DEBUG
