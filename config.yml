@@ -6,7 +6,7 @@ params:
   min_followers_extended: 500
   max_friends_count: 5000
   add_followers_count: 300
-  mins_sleep: 15
+  mins_sleep: 16
   step_batch: 100
   max_batch: 300
   retweet_tracker: False
