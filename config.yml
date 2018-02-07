@@ -10,7 +10,7 @@ params:
   step_batch: 100
   max_batch: 300
   retweet_tracker: False
-  follow_tracker: True
+  follow_tracker: False
   retweet_watcher: False
   follow_watcher: False
 
@@ -28,13 +28,14 @@ words:
     - picha
     - coño
     - mierda
-    - politi
+    - politica
+    - politics
 
 track:
   - dca
   - dañocerebral
   - ictus
-  - discapacidad
+  - '#discapacidad'
   - neuropsicologia
   - rehabilitacion
   - saludsinbulos
