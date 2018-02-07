@@ -32,15 +32,15 @@ words:
     - politics
 
 track:
-  - dca
-  - dañocerebral
-  - ictus
+  - '#dca'
+  - '#dañocerebral'
+  - '#ictus'
   - '#discapacidad'
   - neuropsicologia
-  - rehabilitacion
-  - saludsinbulos
-  - ffpaciente
-  - CIN2018
+  - neurorehabilitacion
+  - '#saludsinbulos'
+  - '#ffpaciente'
+  - '#CIN2018'
 
 follow:
   - screen_name: ClinicaNeurodem
