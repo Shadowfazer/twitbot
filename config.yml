@@ -30,6 +30,10 @@ words:
     - mierda
     - politica
     - politics
+    - politico
+    - Ayuntamiento
+    - Diputación
+    - Diputacion
 
 track:
   - '#dca'
@@ -41,6 +45,7 @@ track:
   - '#saludsinbulos'
   - '#ffpaciente'
   - '#CIN2018'
+  - '#Almeria'
 
 follow:
   - screen_name: ClinicaNeurodem
