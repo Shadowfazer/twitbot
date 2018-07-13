@@ -1,7 +1,7 @@
 params:
   min_retweet_count: 10
   max_dairy_retweet: 400
-  max_dairy_likes: 900
+  max_dairy_likes: 80
   min_followers_count: 20
   min_followers_extended: 500
   max_friends_count: 5000
@@ -40,13 +40,10 @@ track:
   - '#dca'
   - '#dañocerebral'
   - '#ictus'
-  - '#discapacidad'
   - neuropsicologia
   - neurorehabilitacion
   - '#saludsinbulos'
   - '#ffpaciente'
-  - '#CIN2018'
-  - '#Almeria'
 
 follow:
   - screen_name: ClinicaNeurodem
