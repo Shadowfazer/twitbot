@@ -37,13 +37,13 @@ words:
     - Detective
 
 track:
-  - '#dca'
-  - '#dañocerebral'
-  - '#ictus'
-  - neuropsicologia
-  - neurorehabilitacion
-  - '#saludsinbulos'
-  - '#ffpaciente'
+#  - '#dca'
+#  - '#dañocerebral'
+#  - '#ictus'
+#  - neuropsicologia
+#  - neurorehabilitacion
+#  - '#saludsinbulos'
+#  - '#ffpaciente'
 
 follow:
 #  - screen_name: ClinicaNeurodem
